@@ -1,0 +1,30 @@
+[
+        {
+          "name": "Etherpad",
+          "url": "https://etherpad.org/?ref=youqu",
+          "image": "/img/etherpad.png",
+          "description": "Etherpad 是一个高度可定制的开源在线编辑器，提供真正实时的协作编辑。",
+          "category": "写作"
+        },
+        {
+          "name": "狗窝",
+          "url": "https://www.doghouse.com",
+          "image": "/img/default.png",
+          "description": "充满欢乐汪星人的视频网站",
+          "category": "动物"
+        },
+        {
+          "name": "笑话大全",
+          "url": "https://www.jokehub.com",
+          "image": "/img/default.png",
+          "description": "收集了世界上最搞笑的笑话",
+          "category": "娱乐"
+        },
+		{
+          "name": "猫视频",
+          "url": "https://www.catvideos.com",
+          "image": "/img/catvideos.png",
+          "description": "充满可爱喵星人的视频网站",
+          "category": "动物"
+        }
+]

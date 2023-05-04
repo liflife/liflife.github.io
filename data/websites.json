@@ -7,18 +7,18 @@
           "category": "写作"
         },
         {
-          "name": "狗窝",
-          "url": "https://www.doghouse.com",
-          "image": "/img/default.png",
-          "description": "充满欢乐汪星人的视频网站",
-          "category": "动物"
+          "name": "条码生成器",
+          "url": "https://www.nayuki.io/page/1d-barcode-generator-javascript?ref=youqu",
+          "image": "/img/barcode-generator.png",
+          "description": "生成各种格式的一维（线性）条码，例如 UPC、EAN、Code 39/93/128",
+          "category": "其他"
         },
         {
-          "name": "笑话大全",
+          "name": "dailytodo",
           "url": "https://www.jokehub.com",
-          "image": "/img/default.png",
-          "description": "收集了世界上最搞笑的笑话",
-          "category": "娱乐"
+          "image": "/img/dailytodo.png",
+          "description": "无需帐户即可创建简单待办事项列表的最简单方法。",
+          "category": "生产效率"
         },
 		{
           "name": "猫视频",

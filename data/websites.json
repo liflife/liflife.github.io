@@ -33,5 +33,13 @@
           "image": "/img/witeboard.png",
           "description": "Witeboard 可让您在几分钟内在台式机、平板电脑或手机上快速创建草图，并与您的团队实时协作",
           "category": "远程工作"
+        },
+		{
+          "name": "在线生成矢量图SVG",
+          "url": "https://svg.wxeditor.com/",
+          "image": "/img/svgwxeditor.png",
+          "description": "在线生成矢量图SVG",
+          "category": "生产效率"
         }
+		
 ]

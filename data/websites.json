@@ -40,6 +40,13 @@
           "image": "/img/svgwxeditor.png",
           "description": "在线生成矢量图SVG",
           "category": "生产效率"
+        },
+		{
+          "name": "在线查询IP",
+          "url": "https://ipapi.co/",
+          "image": "/img/ipapi.png",
+          "description": "在线查询IP，提供的有API可以查询该IP对应的国家等",
+          "category": "工具"
         }
 		
 ]

@@ -54,6 +54,12 @@
           "image": "/img/futurepedia.png",
           "description": "最大的人工智能AI工具目录",
           "category": "工具"
+        },{
+          "name": "免费的 AI 图像生成器",
+          "url": "https://freeimage.ai/",
+          "image": "/img/freeimage.png",
+          "description": "免费的 AI 图像生成器",
+          "category": "工具"
         }
-		
+	
 ]

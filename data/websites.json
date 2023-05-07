@@ -69,7 +69,7 @@
         },{
           "name": "短链服务",
           "url": "https://bitly.com/",
-          "image": "/img/bitly.png",
+          "image": "/img/bitly.png", 
           "description": "缩短网址。生成二维码。现在，创建 Link-in-bios。",
           "category": "工具"
         },{

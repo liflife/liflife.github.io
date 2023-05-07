@@ -66,6 +66,18 @@
           "image": "/img/agentgpt.png",
           "description": "AgentGPT,GPT卷王",
           "category": "AI"
+        },{
+          "name": "短链服务",
+          "url": "https://bitly.com/",
+          "image": "/img/bitly.png",
+          "description": "缩短网址。生成二维码。现在，创建 Link-in-bios。",
+          "category": "工具"
+        },{
+          "name": "AI 模型来转录视频语音",
+          "url": "https://www.assemblyai.com/",
+          "image": "/img/assemblyai.png",
+          "description": "访问强大的 AI 模型来转录和理解语音我们简单的 API 公开了用于语音识别、说话人检测、语音摘要等的 AI 模型。我们以最新的最先进的 AI 研究为基础，通过简单的 API 提供生产就绪、可扩展且安全的 AI 模型。被数以千计的突破性初创公司和数十家全球企业用于关键任务工作负载。",
+          "category": "AI"
         }
 	
 ]

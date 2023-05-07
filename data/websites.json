@@ -60,6 +60,12 @@
           "image": "/img/freeimage.png",
           "description": "免费的 AI 图像生成器",
           "category": "工具"
+        },{
+          "name": "AgentGPT,GPT卷王",
+          "url": "https://agentgpt.reworkd.ai/",
+          "image": "/img/agentgpt.png",
+          "description": "AgentGPT,GPT卷王",
+          "category": "AI"
         }
 	
 ]

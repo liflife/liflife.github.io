@@ -78,6 +78,12 @@
           "image": "/img/assemblyai.png",
           "description": "访问强大的 AI 模型来转录和理解语音我们简单的 API 公开了用于语音识别、说话人检测、语音摘要等的 AI 模型。我们以最新的最先进的 AI 研究为基础，通过简单的 API 提供生产就绪、可扩展且安全的 AI 模型。被数以千计的突破性初创公司和数十家全球企业用于关键任务工作负载。",
           "category": "AI"
+        },{
+          "name": "开发者武器库",
+          "url": "https://devtool.tech/",
+          "image": "/img/devtool.png",
+          "description": "开发者常用工具",
+          "category": "工具"
         }
 	
 ]

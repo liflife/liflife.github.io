@@ -84,6 +84,12 @@
           "image": "/img/devtool.png",
           "description": "开发者常用工具",
           "category": "工具"
+        },{
+          "name": "SQLkiller - AI数据分析助手",
+          "url": "https://www.sqlkiller.com/",
+          "image": "/img/sqlkiller.png",
+          "description": "SQLkiller - AI数据分析助手",
+          "category": "工具"
         }
 	
 ]

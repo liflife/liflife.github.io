@@ -4,92 +4,106 @@
           "url": "https://etherpad.org/?ref=youqu",
           "image": "/img/etherpad.png",
           "description": "Etherpad 是一个高度可定制的开源在线编辑器，提供真正实时的协作编辑。",
-          "category": "写作"
+		  "star":1,
+          "category": "writing"
         },
         {
           "name": "条码生成器",
           "url": "https://www.nayuki.io/page/1d-barcode-generator-javascript?ref=youqu",
           "image": "/img/barcode-generator.png",
           "description": "生成各种格式的一维（线性）条码，例如 UPC、EAN、Code 39/93/128",
-          "category": "其他"
+		  "star":2,
+          "category": "other"
         },
         {
           "name": "dailytodo",
           "url": "https://www.jokehub.com",
           "image": "/img/dailytodo.png",
           "description": "无需帐户即可创建简单待办事项列表的最简单方法。",
-          "category": "生产效率"
+		  "star":3.5,
+          "category": "productivity"
         },
 		{
           "name": "猫视频",
           "url": "https://www.catvideos.com",
           "image": "/img/catvideos.png",
           "description": "充满可爱喵星人的视频网站",
-          "category": "动物"
+		  "star":3,
+          "category": "animal"
         },
 		{
           "name": "白板",
           "url": "https://witeboard.com/",
           "image": "/img/witeboard.png",
           "description": "Witeboard 可让您在几分钟内在台式机、平板电脑或手机上快速创建草图，并与您的团队实时协作",
-          "category": "远程工作"
+		  "star":3,
+          "category": "remoteWork"
         },
 		{
           "name": "在线生成矢量图SVG",
           "url": "https://svg.wxeditor.com/",
           "image": "/img/svgwxeditor.png",
           "description": "在线生成矢量图SVG",
-          "category": "生产效率"
+		  "star":3,
+          "category": "productivity"
         },
 		{
           "name": "在线查询IP",
           "url": "https://ipapi.co/",
           "image": "/img/ipapi.png",
           "description": "在线查询IP，提供的有API可以查询该IP对应的国家等",
-          "category": "工具"
+		  "star":3,
+          "category": "tools"
         },
 		{
           "name": "AI工具目录",
           "url": "https://www.futurepedia.io/",
           "image": "/img/futurepedia.png",
           "description": "最大的人工智能AI工具目录",
-          "category": "工具"
+		  "star":3,
+          "category": "tools"
         },{
           "name": "免费的 AI 图像生成器",
           "url": "https://freeimage.ai/",
           "image": "/img/freeimage.png",
           "description": "免费的 AI 图像生成器",
-          "category": "工具"
+		  "star":3,
+          "category": "tools"
         },{
           "name": "AgentGPT,GPT卷王",
           "url": "https://agentgpt.reworkd.ai/",
           "image": "/img/agentgpt.png",
           "description": "AgentGPT,GPT卷王",
-          "category": "AI"
+		  "star":4,
+          "category": "ai"
         },{
           "name": "短链服务",
           "url": "https://bitly.com/",
           "image": "/img/bitly.png", 
           "description": "缩短网址。生成二维码。现在，创建 Link-in-bios。",
-          "category": "工具"
+		  "star":3,
+          "category": "tools"
         },{
           "name": "AI 模型来转录视频语音",
           "url": "https://www.assemblyai.com/",
           "image": "/img/assemblyai.png",
           "description": "访问强大的 AI 模型来转录和理解语音我们简单的 API 公开了用于语音识别、说话人检测、语音摘要等的 AI 模型。我们以最新的最先进的 AI 研究为基础，通过简单的 API 提供生产就绪、可扩展且安全的 AI 模型。被数以千计的突破性初创公司和数十家全球企业用于关键任务工作负载。",
-          "category": "AI"
+          "star":3,
+		  "category": "ai"
         },{
           "name": "开发者武器库",
           "url": "https://devtool.tech/",
           "image": "/img/devtool.png",
           "description": "开发者常用工具",
-          "category": "工具"
+		  "star":2,
+          "category": "tools"
         },{
           "name": "SQLkiller - AI数据分析助手",
           "url": "https://www.sqlkiller.com/",
           "image": "/img/sqlkiller.png",
           "description": "SQLkiller - AI数据分析助手",
-          "category": "工具"
+		  "star":4,
+          "category": "tools"
         }
 	
 ]

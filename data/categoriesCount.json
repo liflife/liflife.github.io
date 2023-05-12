@@ -3,35 +3,30 @@
 		"label": "全部",
 		"zh": "全部",
 		"en": "all",
-		"total": 10,
 		"type": "all"
 	},
 	{
 		"label": "动物",
 		"zh": "动物",
 		"en": "animal",
-		"total": 10,
 		"type": "animal"
 	},
 	{
 		"label": "生产效率",
 		"zh": "生产效率",
 		"en": "productivity",
-		"total": 10,
 		"type": "productivity"
 	},
 	{
 		"label": "写作",
 		"zh": "写作",
 		"en": "Writing",
-		"total": 10,
 		"type": "writing"
 	},
 	{
 		"label": "工具",
 		"zh": "工具",
 		"en": "tools",
-		"total": 10,
 		"type": "tools"
 	},
 	
@@ -39,14 +34,12 @@
 		"label": "其他",
 		"zh": "其他",
 		"en": "Other",
-		"total": 10,
 		"type": "other"
 	},
 	{
 		"label": "远程工作",
 		"zh": "远程工作",
 		"en": "remote Work",
-		"total": 10,
 		"type": "remoteWork"
 	}
 	,
@@ -54,7 +47,6 @@
 		"label": "AI",
 		"zh": "AI",
 		"en": "AI",
-		"total": 10,
 		"type": "ai"
 	}
 ]
